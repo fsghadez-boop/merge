@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="g" cx="85%" cy="15%" r="60%">
+      <stop offset="0" stop-color="#3ddc84" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#3ddc84" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b2a1f"/>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="80" y="80" width="72" height="72" rx="18" fill="#3ddc84"/>
+  <path d="M98 132V100l18 16 18-16v32" fill="none" stroke="#0b2a1f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="172" y="130" font-family="Georgia, serif" font-size="40" fill="#ffffff">Merge Consulting Corp.</text>
+  <text x="80" y="330" font-family="Georgia, serif" font-size="76" fill="#ffffff">Strategic business</text>
+  <text x="80" y="420" font-family="Georgia, serif" font-size="76" font-style="italic" fill="#3ddc84">solutions.</text>
+  <text x="80" y="530" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" fill-opacity=".75">Registration · Accounting &amp; Tax · Legal · HR · Visa · Strategy — Makati City</text>
+</svg>
